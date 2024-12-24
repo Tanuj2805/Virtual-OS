@@ -1,0 +1,196 @@
+A MAN A PLAN A CANAL PANAMA 
+
+JobID: 102
+TTL: 21	TLL: 1
+TTC: 22	LLC: 1
+SI: 0	PI: 0	TI: 2
+IC: 20
+IR: ඞඞඞඞ
+R: ඞඞඞඞ
+Toggle: false
+Time Limit Exceeded
+
+
+HOPE FOR IT
+THERE IS NO HOPE
+BUT STILL HOPE
+
+JobID: 201
+TTL: 12	TLL: 3
+TTC: 12	LLC: 3
+SI: 3	PI: 0	TI: 0
+IC: 12
+IR: Hඞඞඞ
+R: HOPE
+Toggle: true
+Terminated Sucessfully
+
+
+
+JobID: 201
+TTL: 12	TLL: 3
+TTC: 13	LLC: 3
+SI: 0	PI: 2	TI: 2
+IC: 100
+IR: ඞඞඞඞ
+R: HOPE
+Toggle: true
+Time Limit Exceeded
+
+
+
+JobID: 201
+TTL: 12	TLL: 3
+TTC: 13	LLC: 3
+SI: 0	PI: 2	TI: 2
+IC: 100
+IR: ඞඞඞඞ
+R: HOPE
+Toggle: true
+Time Limit Exceeded
+
+
+
+JobID: 201
+TTL: 12	TLL: 3
+TTC: 13	LLC: 3
+SI: 0	PI: 2	TI: 2
+IC: 100
+IR: ඞඞඞඞ
+R: HOPE
+Toggle: true
+Operand error
+
+
+3 LITTLE PIGS WENT TO OS CLASS.
+THE WOLF ATE ONE!
+2 LITTLE PIGS WENT TO OS CLASS.
+THE WOLF ATE ONE!
+1 LITTLE PIGS WENT TO OS CLASS.
+THE WOLF ATE ONE!
+
+JobID: 3
+TTL: 17	TLL: 7
+TTC: 19	LLC: 6
+SI: 0	PI: 0	TI: 2
+IC: 15
+IR: ඞඞඞඞ
+R: 1 LI
+Toggle: false
+Time Limit Exceeded
+
+
+   N   U   T   R   A   F   I   N
+   N   I   F   A   R   T   U   N
+
+JobID: 7
+TTL: 20	TLL: 2
+TTC: 21	LLC: 2
+SI: 0	PI: 0	TI: 2
+IC: 19
+IR: ඞඞඞඞ
+R:    N
+Toggle: false
+Time Limit Exceeded
+
+
+VIT IS GOOD
+VIIT IS GOOD
+
+JobID: 301
+TTL: 10	TLL: 3
+TTC: 11	LLC: 2
+SI: 0	PI: 0	TI: 2
+IC: 8
+IR: ඞඞඞඞ
+R: VIT 
+Toggle: false
+Time Limit Exceeded
+
+
+CAT CAN EAT RAT
+RAT CAN NOT EAT CAT
+RAT CAN EAT RAT
+
+JobID: 302
+TTL: 8	TLL: 3
+TTC: 9	LLC: 3
+SI: 0	PI: 0	TI: 2
+IC: 7
+IR: ඞඞඞඞ
+R: RAT 
+Toggle: false
+Time Limit Exceeded
+
+
+I LIKE THIS PEN OF  HIS 
+
+JobID: 101
+TTL: 4	TLL: 1
+TTC: 5	LLC: 1
+SI: 0	PI: 0	TI: 2
+IC: 4
+IR: ඞඞඞඞ
+R: HIS 
+Toggle: false
+Time Limit Exceeded
+
+
+ABCD
+ABCD
+
+JobID: 401
+TTL: 12	TLL: 4
+TTC: 13	LLC: 2
+SI: 0	PI: 0	TI: 2
+IC: 10
+IR: ඞඞඞඞ
+R: ABCD
+Toggle: true
+Time Limit Exceeded
+
+
+   RAT
+   SAT
+   ON
+
+JobID: 402
+TTL: 13	TLL: 4
+TTC: 14	LLC: 3
+SI: 0	PI: 0	TI: 2
+IC: 10
+IR: ඞඞඞඞ
+R:    M
+Toggle: false
+Time Limit Exceeded
+
+
+RAM  IS OLDER THAN  SHRIRAM 
+
+JobID: 102
+TTL: 7	TLL: 2
+TTC: 6	LLC: 1
+SI: 3	PI: 0	TI: 0
+IC: 8
+IR: Hඞඞඞ
+R: RAM 
+Toggle: true
+Terminated Sucessfully
+
+
+*
+**
+***
+**
+
+JobID: 202
+TTL: 16	TLL: 5
+TTC: 17	LLC: 4
+SI: 0	PI: 0	TI: 2
+IC: 13
+IR: ඞඞඞඞ
+R: *ඞඞඞ
+Toggle: false
+Time Limit Exceeded
+
+

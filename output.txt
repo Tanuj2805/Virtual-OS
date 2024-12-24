@@ -1,10 +1,48 @@
-NOT SAME
-NOT SAME
-NOT SAME
-SAME
-NOT SAME
-NOT SAME
-SAME
-SAME
-SAME
-SAME
+
+JobID: 9
+TTL: 4	TLL: 1
+TTC: 0	LLC: 0
+SI: 0	PI: 1	TI: 0
+IC: 1
+IR: GG20
+R: ඞඞඞඞ
+Toggle: false
+OP code error
+
+
+
+JobID: 10
+TTL: 4	TLL: 1
+TTC: 2	LLC: 1
+SI: 2	PI: 3	TI: 0
+IC: 2
+IR: PD20
+R: ඞඞඞඞ
+Toggle: false
+Invalid page fault
+
+
+
+JobID: 10
+TTL: 1	TLL: 1
+TTC: 2	LLC: 0
+SI: 0	PI: 0	TI: 2
+IC: 1
+IR: ඞඞඞඞ
+R: ඞඞඞඞ
+Toggle: false
+Time Limit Exceeded
+
+
+
+JobID: 11
+TTL: 1	TLL: 1
+TTC: 0	LLC: 0
+SI: 1	PI: 2	TI: 0
+IC: 1
+IR: GD-0
+R: ඞඞඞඞ
+Toggle: false
+Operand error
+
+
